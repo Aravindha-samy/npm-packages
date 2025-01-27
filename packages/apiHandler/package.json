@@ -1,0 +1,40 @@
+{
+  "name": "@aravindhasamy/apihandler",
+  "version": "1.0.1",
+  "description": "The apiRequest function is a flexible utility designed to handle HTTP requests of various types, including GET, POST, PATCH, and DELETE. It supports making API calls to external services, handling different response types, and customizing request headers and body content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API Request",
+    "HTTP methods (GET, POST, PATCH, DELETE)",
+    "File handling (images, PDF)",
+    "Error handling",
+    "Authorization",
+    "Authorization header (Bearer token)",
+    "Custom header",
+    "Request Body (POST, PATCH)",
+    "Query parameters",
+    "Fetch API",
+    "Fetch request",
+    "Content-Type header",
+    "Accept header",
+    "Cache-control",
+    "No-cache",
+    "Structured error messages",
+    "Buffer handling",
+    "Network errors",
+    "Flexible API utility"
+  ],
+  "author": "aravindhasamychs2017@gmail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aravindha-samy/npm-packages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aravindha-samy/npm-packages/issues"
+  },
+  "homepage": "https://github.com/Aravindha-samy/npm-packages#readme"
+}
